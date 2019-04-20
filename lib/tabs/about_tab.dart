@@ -1,3 +1,5 @@
+// (c) 2019 hush2. https://github.com/hush2
+
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
