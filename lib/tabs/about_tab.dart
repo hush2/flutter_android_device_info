@@ -10,7 +10,7 @@ class AboutTab extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
         Image.asset(
-          'assets/hush2_512.png',
+          'assets/hush2.png',
           width: 128,
         ),
         RaisedButton(
