@@ -1,7 +1,7 @@
-name: android_device_info_demo
-description: A new Flutter application.
-
-version: 1.0.0
+name: flutter_android_device_info
+author: hush2 <hush2dev@gmail.com>
+description: A Fluter demo app for the android_device_info package.
+version: 1.0.0+1
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
@@ -9,14 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cupertino_icons: ^0.1.2
+
   url_launcher: ^5.0.2
   intl: ^0.15.8
   permission_handler: ^3.0.0
-
-  android_device_info:
-    path: ../android_device_info
-
-  cupertino_icons: ^0.1.2
+  android_device_info: ^1.0.0
 
 dev_dependencies:
   flutter_test:

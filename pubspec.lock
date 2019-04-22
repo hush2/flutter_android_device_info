@@ -4,10 +4,10 @@ packages:
   android_device_info:
     dependency: "direct main"
     description:
-      path: "../android_device_info"
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: android_device_info
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.0"
   async:
     dependency: transitive
     description:
