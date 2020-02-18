@@ -1,19 +1,16 @@
-# flutter_android_device_info
+# flutter_app
 
-A Flutter demo app for my [android_device_info](https://pub.dartlang.org/packages/android_device_info) package.
+A new Flutter project.
 
-## screenshots
+## Getting Started
 
-Screenshots taken from an Android 9 emulator, some values are missing or invalid.
+This project is a starting point for a Flutter application.
 
-<p float="left">
-        <img src="https://hush2.bitbucket.io/images/screenshots/flutter_android_device_info/large1.png" width="240">
-        <img src="https://hush2.bitbucket.io/images/screenshots/flutter_android_device_info/large2.png" width="240">
-        <img src="https://hush2.bitbucket.io/images/screenshots/flutter_android_device_info/large3.png" width="240">
-        <img src="https://hush2.bitbucket.io/images/screenshots/flutter_android_device_info/large4.png" width="240">
-        <img src="https://hush2.bitbucket.io/images/screenshots/flutter_android_device_info/large5.png" width="240">
-</p>
+A few resources to get you started if this is your first Flutter project:
 
-## license
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Apache 2.0
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

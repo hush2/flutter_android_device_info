@@ -1,5 +1,3 @@
-// (c) 2019 hush2. https://github.com/hush2
-
 import 'package:flutter/material.dart';
 
 import 'tabs/about_tab.dart';
@@ -19,6 +17,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: appTitle,
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        primarySwatch: Colors.indigo,
+      ),
       home: DefaultTabController(
         length: 6,
         child: Home(title: appTitle),

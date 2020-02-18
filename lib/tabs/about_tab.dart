@@ -13,12 +13,16 @@ class AboutTab extends StatelessWidget {
           'assets/hush2.png',
           width: 128,
         ),
+        Column(children: <Widget>[
+          Text('Author: Muhammad Ayoub Khan'),
+          Text(''),
+        ],),
         RaisedButton(
-          color: Colors.lightBlue,
-          child: Text('GO TO GITHUB',
+          color: Colors.indigo,
+          child: Text('Visit my Site',
               style: TextStyle(fontSize: 12, color: Colors.white)),
           onPressed: () {
-            launch('https://github.com/hush2');
+            launch('https://ayoubkhan.netlify.com');
           },
         ),
       ],
